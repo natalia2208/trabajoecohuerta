@@ -1,3 +1,6 @@
+
+karen natalia collazos moreno
+
 1- Mapa de secciones
 Identifiqué las siguientes secciones con su función en la interfaz:
 
