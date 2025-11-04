@@ -1,0 +1,37 @@
+/* ================================
+   🌙 MODO OSCURO (clase .dark-mode)
+   ================================ */
+.dark-mode {
+  background-color: #121212 !important;
+  color: #f1f1f1 !important;
+}
+
+/* Cambiar fondo de secciones claras */
+.dark-mode .bg-light {
+  background-color: #1e1e1e !important;
+  color: #f1f1f1 !important;
+}
+
+/* Cartas */
+.dark-mode .card {
+  background-color: #1f1f1f !important;
+  color: #eaeaea !important;
+  border-color: #333 !important;
+}
+
+/* Navbar */
+.dark-mode .navbar {
+  background-color: #222 !important;
+  color: #f1f1f1 !important;
+}
+
+/* Texto secundario */
+.dark-mode .text-muted {
+  color: #bbbbbb !important;
+}
+
+/* Botón tema en modo oscuro */
+.dark-mode #themeToggle {
+  background-color: #333;
+  color: #f1f1f1;
+}
